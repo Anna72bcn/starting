@@ -1,2 +1,2 @@
 # starting
-This is my first repository - just checking how this space works
+This is my first repository -  checking how this space works, I'm excited!
